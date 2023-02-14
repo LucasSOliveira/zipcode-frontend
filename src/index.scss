@@ -1,0 +1,19 @@
+$font-family-01: 'Poppins', Helvetica, sans-serif;
+$color-ui-background: #FFFDEE;
+$color-brand-primary: #003558;
+
+html, body, #root {
+    font-family: $font-family-01;
+    color: $color-brand-primary;
+    background-color: $color-ui-background;
+    height: 100%;
+}
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
