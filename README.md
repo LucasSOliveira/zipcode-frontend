@@ -1,6 +1,6 @@
 # ZipCode
 
-ViaCep. É um aplicativo de busca de endereço por CEP.
+É um aplicativo de busca de endereço por CEP.
 
 ### Tecnologias utilizadas
 biblioteca/framework: [ReactJS](https://pt-br.reactjs.org/) com [Typescript](https://www.typescriptlang.org/),
